@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I’m Divyansh 👋</h1>
 
 <p align="center">
-  Software engineer who likes hard problems, clean systems, and shipping things that actually work.
+  Software engineer who likes real problems, clean and complex systems, and shipping things that actually work.
 </p>
 
 <p align="center">
